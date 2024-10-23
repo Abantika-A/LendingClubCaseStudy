@@ -16,7 +16,9 @@ This case study is about analyzing the patterns in the defaulted loans issued by
 ## Conclusions
 - The highest no. of defaulted loans are taken for the purpose of debt consolidation.
 - Applicants with 10+ years of employment have defaulted the most.
-
+- As the revolving credit utilization percentage is increasing, so is the no. of loan defaults.
+- Loans issued in 2011 have defaulted the most.
+- Detailed analysis is present in the pdf.
 
 ## Technologies Used
 - Python 3.12
