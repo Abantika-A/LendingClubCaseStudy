@@ -1,5 +1,4 @@
-# Project Name
-> Lending Case Study
+# Lending Case Study
 This case study is about analyzing the patterns in the defaulted loans issued by a lender between the year 2007 to 2011.
 
 
